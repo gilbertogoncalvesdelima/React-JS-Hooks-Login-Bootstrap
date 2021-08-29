@@ -14,5 +14,17 @@ npm install --save react-router-dom
 yarn add react-router-dom
 
 
-# login_bootstrap_react_js
+# Criando meu primeiro Branchs no Github
+git checkout -b (Nome da Branch)
+
+# Para voltar para a Master no Github
+git checkout master
+
+# Subindo meu arquivo para minha filial
+git add. (Subir todos os aquivos) 
+git add. \ Index.html (Nome do arquivo, 
+expecifico index.html) 
+git commit -m "arquivo html" (Comitando) 
+git push origin (nome da branch) 
+obs: Porque fazer uma Branch? R: Para não interferir no arquivo principal master, que esta no github, depois só vai subir o que for aprovado.
 # login_bootstrap_react_js
