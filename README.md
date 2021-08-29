@@ -29,26 +29,3 @@ git add. \ Index.html (Nome do arquivo, expecifico index.html)
 git commit -m "arquivo html" (Comitando) 
 git push origin (nome da branch) 
 obs: Porque fazer uma Branch? R: Para não interferir no arquivo principal master, que esta no github, depois só vai subir o que for aprovado.
-
-Cerca de
-Nenhuma descrição, site ou tópicos fornecidos.
-Tópicos
-Recursos
- Leia-me
-Lançamentos
-Nenhum lançamento publicado
-Crie um novo lançamento
-Pacotes
-Nenhum pacote publicado
-Publique seu primeiro pacote
-línguas
-JavaScript
-77,1%
- 
-HTML
-22,9%
-© 2021 GitHub, Inc.
-Termos
-Privacidade
-Segurança
-Stat
