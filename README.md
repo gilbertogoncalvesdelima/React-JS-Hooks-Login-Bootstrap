@@ -29,3 +29,6 @@ git add. \ Index.html (Nome do arquivo, expecifico index.html)
 git commit -m "arquivo html" (Comitando) 
 git push origin (nome da branch) 
 obs: Porque fazer uma Branch? R: Para não interferir no arquivo principal master, que esta no github, depois só vai subir o que for aprovado.
+
+# Link para ver o projeto
+https://loguin-bootstrap-react-js.netlify.app/
